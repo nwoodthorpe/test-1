@@ -7,3 +7,4 @@ I am making a PR
 test
 a
 b
+c
